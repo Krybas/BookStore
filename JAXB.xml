@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OrderList>
+    <order id="1">
+        <client>
+            <id>1</id>
+            <First_name>Arnas</First_name>
+            <Last_name>Silaikis</Last_name>
+        </client>
+        <book>
+            <id>1</id>
+            <Book_name>Alchemikas</Book_name>
+            <First_name> Paulo</First_name>
+            <Last_name>Coelho</Last_name>
+            <Price>11,91</Price>
+        </book>
+    </order>
+    <order id="2">
+        <client>
+            <id>2</id>
+            <First_name>Tomas</First_name>
+            <Last_name>Juška</Last_name>
+        </client>
+        <book>
+            <id>2</id>
+            <Book_name>Norvegų giria</Book_name>
+            <First_name>Haruki</First_name>
+            <Last_name>Murakami</Last_name>
+            <Price>15,39</Price>
+        </book>
+    </order>
+    <order id="3">
+        <client>
+            <id>3</id>
+            <First_name>Jonas</First_name>
+            <Last_name>Petraitis</Last_name>
+        </client>
+        <book>
+            <id>3</id>
+            <Book_name>1984</Book_name>
+            <First_name>George</First_name>
+            <Last_name>Orwell</Last_name>
+            <Price>10,43</Price>
+        </book>
+    </order>
+    <order id="4">
+        <client>
+            <id>4</id>
+            <First_name>Eglė</First_name>
+            <Last_name>Kazlauskaitė</Last_name>
+        </client>
+        <book>
+            <id>4</id>
+            <Book_name>Knygų vagilė</Book_name>
+            <First_name>Markus</First_name>
+            <Last_name>Zusak</Last_name>
+            <Price>9,46</Price>
+        </book>
+    </order>
+    <order id="5">
+        <client>
+            <id>5</id>
+            <First_name>Gabija</First_name>
+            <Last_name>Stankevičiūtė</Last_name>
+        </client>
+        <book>
+            <id>5</id>
+            <Book_name>Mažasis princas</Book_name>
+            <First_name>Antoine</First_name>
+            <Last_name>de Saint-Exupéry</Last_name>
+            <Price>8,85</Price>
+        </book>
+    </order>
+</OrderList>
