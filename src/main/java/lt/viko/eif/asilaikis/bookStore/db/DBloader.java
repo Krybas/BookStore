@@ -50,7 +50,7 @@ public class DBloader {
         {
             server = Server.createTcpServer("-tcpPort", "9093").start();
             transaction = session.beginTransaction();
-            orderList.forEach(order -> session.save(order));
+            orderList.forEach(session::save);
             transaction.commit();
         }
         catch (SQLException e)
